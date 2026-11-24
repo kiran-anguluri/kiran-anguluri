@@ -76,12 +76,18 @@ I enjoy exploring data, identifying meaningful patterns, and transforming raw in
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Anguluri-Kiran-Kumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Anguluri-Kiran-Kumar&theme=tokyonight&hide_border=true" height="165" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anguluri-Kiran-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Anguluri-Kiran-Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anguluri-Kiran-Kumar&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anguluri-Kiran-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anguluri-Kiran-Kumar&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
